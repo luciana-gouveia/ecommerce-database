@@ -6,7 +6,7 @@ Este projeto consiste em um modelo conceitual de banco de dados para um sistema 
 - Gestão de pagamentos com múltiplas formas de pagamento.
 - Controle de pedidos e entregas com status e código de rastreio.
 
-## Entidades Principais:
+## Tabelas principais:
 - Cliente
 - Cliente_PF
 - Cliente_PJ
@@ -15,3 +15,7 @@ Este projeto consiste em um modelo conceitual de banco de dados para um sistema 
 - Entrega
 - Produto
 - Item_Pedido
+
+## Diagrama do Banco de Dados
+
+![Diagrama do Banco de Dados](diagrama.png)
